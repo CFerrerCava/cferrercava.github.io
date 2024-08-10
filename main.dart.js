@@ -57836,7 +57836,7 @@ my(){var s=0,r=A.A(t.H),q=this,p
 var $async$my=A.B(function(a,b){if(a===1)return A.x(b,r)
 while(true)switch(s){case 0:p=q.x
 s=2
-return A.D(p.oA(A.agk(A.eg("asset:///audios/ps1_intro.mp3"),null,null),null,!0),$async$my)
+return A.D(p.oA(A.agk(A.eg("asset:///assets/audios/ps1_intro.mp3"),null,null),null,!0),$async$my)
 case 2:s=3
 return A.D(p.cg().ey(new A.a1l()),$async$my)
 case 3:return A.y(null,r)}})
